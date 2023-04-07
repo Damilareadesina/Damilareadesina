@@ -3,7 +3,7 @@
 <h2>👨‍💻 Data Analytics Projects:</h2>
 
 - <b>Excel</b>
-  - [Data Cleaninng]([https://github.com/joshmadakor1/Algorithms-Practice](https://github.com/Damilareadesina/Data-Cleaning.git))
+  - [Data Cleaninng](https://github.com/Damilareadesina/Data-Cleaning.git)
 
 
 - <b>PowerBi</b>
