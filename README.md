@@ -3,7 +3,7 @@
 <h2>👨‍💻 Data Analytics Projects:</h2>
 
 - <b>Excel</b>
-  - [Praciting DS & Algos in Python](https://github.com/joshmadakor1/Algorithms-Practice)
+  - [Sata Cleaninng](https://github.com/joshmadakor1/Algorithms-Practice)
 
 
 - <b>PowerBi</b>
