@@ -4,7 +4,7 @@
 
 - <b>Excel</b>
   - [Data Cleaninng](https://github.com/Damilareadesina/Data-Cleaning.git)
-  - [Analysis  on  Inflation](https://github.com/Damilareadesina/Data-Cleaning.git)
+  - [Analysis  on  Inflation](https://github.com/Damilareadesina/Analysis-of-Inflation.git)
 
 
 - <b>PowerBi</b>
