@@ -10,7 +10,7 @@
 - <b>PowerBi</b>
   - [SuperStore Analysis on the business performance](https://github.com/joshmadako/Sentinel-Lab)
   - [University Ranking Analysis](https://github.com/joshmadako/Jwipe.PowerShell)
-  - [Business Analysis](https://github.com/joshmadakor1/AD_PS)
+  - [Business Analysis](https://github.com/joshmadako/AD_PS)
 - <b>SQL</b>  
 
 
