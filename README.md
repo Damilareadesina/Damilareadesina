@@ -13,7 +13,7 @@
   - [Business Analysis](https://github.com/joshmadako/AD_PS)
 - <b>SQL</b>  
   - [Danny's Diner (danny ma week 1 challenge) ](https://github.com/Damilareadesina/Dannys-Diner.git)
-  - [Pizza Runner (danny ma week 2 challenge) ](https://github.com/joshmadako/AD_PS)
+  - [Pizza Runner (danny ma week 2 challenge) ](https://github.com/Damilareadesina/Pizza-Runner.git)
 
  
 
