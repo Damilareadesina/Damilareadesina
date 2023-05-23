@@ -7,7 +7,7 @@
   - [Analysis  on  Inflation](https://github.com/Damilareadesina/Descriptive-Analysis-on-Inflation.git) 
 
 
-- <b>PowerBi</b>
+- <b>PowerBI</b>
   - [SuperStore Analysis on the business performance](https://github.com/joshmadako/Sentinel-Lab)
   - [University Ranking Analysis](https://github.com/joshmadako/Jwipe.PowerShell)
   - [Business Analysis](https://github.com/Damilareadesina/Business-Analysis.git)
