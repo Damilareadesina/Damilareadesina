@@ -10,7 +10,7 @@
 - <b>PowerBi</b>
   - [SuperStore Analysis on the business performance](https://github.com/joshmadako/Sentinel-Lab)
   - [University Ranking Analysis](https://github.com/joshmadako/Jwipe.PowerShell)
-  - [Business Analysis](https://github.com/joshmadako/AD_PS)
+  - [Business Analysis](https://github.com/Damilareadesina/Business-Analysis.git)
 - <b>SQL</b>  
   - [Danny's Diner (danny ma week 1 challenge) ](https://github.com/Damilareadesina/Dannys-Diner.git)
   - [Pizza Runner (danny ma week 2 challenge) ](https://github.com/Damilareadesina/Pizza-Runner.git)
